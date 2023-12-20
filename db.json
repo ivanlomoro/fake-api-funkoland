@@ -4,7 +4,7 @@
           "id": 1,
           "name":"Yami Yugi",
           "price":14.99,
-          "imgUrl": "../src/assets/imgs/animation/anime1.jpg",
+          "imgUrl": "https://res.cloudinary.com/dgxkfjsbz/image/upload/v1703077176/funkoland/animation/anime1_j0lfik.webp",
           "imgUrlAlt": "../src/assets/imgs/animation/anime1_box.jpg",
           "category": 1,
           "topSale":false,
