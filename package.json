@@ -1,28 +1,22 @@
 {
-  "name": "alurageek-api",
+  "name": "fake-api-funkoland",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Products for funkoland store api",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "https://github.com/ivanlomoro/fake-api-funkoland"
   },
   "keywords": [
-    "alura",
-    "alurageek",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Iván Martín Lomoro",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
-  },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
